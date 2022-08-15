@@ -2,6 +2,7 @@
 
 
 <h4 align="center">Programming since the begin of 2022, and using linux since April, 2021.</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=0e75b6&style=flat" alt="1belini" /> </p>
 
 <h3 align="left">About me:</h3>
 <hr>
@@ -23,7 +24,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <hr>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ozshz&show_icons=true&theme=radical&cache_seconds=120&locale=en" alt="ozshz" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozshz&show_icons=true&theme=radical&cache_seconds=60&locale=en&layout=compact" alt="ozshz" /></p>
-<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1belini&show_icons=true&theme=radical&cache_seconds=60&locale=en&layout=compact" alt="1belini" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1belini&show_icons=true&theme=radical&cache_seconds=120&locale=en" alt="1belini" /></p>
 
