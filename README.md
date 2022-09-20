@@ -1,7 +1,10 @@
-![a](https://user-images.githubusercontent.com/100674901/184520680-e57400c3-d9f6-4d27-b826-04adc3bba744.png)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/100674901/191261068-0790b5f1-0ef3-4d23-9f35-ab87bef02af1.gif)
 
 
-<h4 align="center">Programming since the begin of 2022, and using linux since April, 2021.</h4>
+
+
+<h4 align="center">Programming since the beginning of 2022, and using linux since April, 2021.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=0e75b6&style=flat" alt="1belini" /> </p>
 
 <h3 align="left">About me:</h3>
@@ -17,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>  </p>
+<p align="left">   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> </p>
 
 <br>
 
