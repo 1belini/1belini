@@ -1,11 +1,12 @@
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/100674901/191261068-0790b5f1-0ef3-4d23-9f35-ab87bef02af1.gif)
+![dancing-gopher](https://user-images.githubusercontent.com/100674901/193160293-7f808afb-5580-4afb-815a-bcbcc94be8d9.gif)
 
 
 
-
+<br>
+<br>
 <h4 align="center">Programming since the beginning of 2022, and using linux since April, 2021.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=0e75b6&style=flat" alt="1belini" /> </p>
+
 
 <h3 align="left">About me:</h3>
 <hr>
@@ -33,6 +34,9 @@
 <h3 align="left">GitHub Stats:</h3>
 <hr>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=1belini&show_icons=true&theme=radical&cache_seconds=60&locale=en" alt="1belini" /></p><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=1belini&show_icons=true&theme=radical&cache_seconds=60&locale=en&layout=compact" alt="1belini" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1belini&theme=radical&cache_seconds=60&" alt="1belini" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=1belini&show_icons=true&theme=tokyonight&cache_seconds=60&locale=en" alt="1belini" /></p><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=1belini&show_icons=true&theme=tokyonight&cache_seconds=60&locale=en&layout=compact" alt="1belini" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1belini&theme=tokyonight&cache_seconds=60&" alt="1belini" /></p>
+
+
+
 
 
