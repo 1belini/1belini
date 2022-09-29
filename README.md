@@ -33,6 +33,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <hr>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=1belini&show_icons=true&theme=radical&cache_seconds=120&locale=en" alt="1belini" /></p><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=1belini&show_icons=true&theme=radical&cache_seconds=60&locale=en&layout=compact" alt="1belini" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1belini&theme=radical&cache_seconds=60&" alt="1belini" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=1belini&show_icons=true&theme=radical&cache_seconds=60&locale=en" alt="1belini" /></p><p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=1belini&show_icons=true&theme=radical&cache_seconds=60&locale=en&layout=compact" alt="1belini" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1belini&theme=radical&cache_seconds=60&" alt="1belini" /></p>
 
 
