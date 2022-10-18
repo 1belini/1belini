@@ -11,7 +11,7 @@
 <ul>
   <li>From 🇧🇷</li>
   <li>Arch User</li>
-  <li>Avid reader</li>
+  <li></li>
 </ul> 
 <br>
 <p align="left">
