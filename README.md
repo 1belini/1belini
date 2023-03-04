@@ -3,14 +3,13 @@
 
 <br>
 <br>
-<h4 align="center">Programming since the beginning of 2022, and using linux since April, 2021.</h4>
-
 
 <h3 align="left">About me:</h3>
 <hr>
 <ul>
-  <li>From 🇧🇷</li>
-  <li>Arch User</li>
+  <li>From Brazil</li>
+  <li>17 years old</li>
+  <li>Python Programmer</li>
 </ul> 
 <br>
 <p align="left">
@@ -24,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 <br>
-<p align="left"> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>  </p>
+<p align="left"> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> </p>
 
 <br>
 
