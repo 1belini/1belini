@@ -1,6 +1,5 @@
-![mad-watch-this-swag-mad](https://user-images.githubusercontent.com/100674901/191280814-e90338c1-a691-4a9c-accc-b40f559b754a.gif)
 
-
+![lofi](https://github.com/1belini/1belini/assets/100674901/70eefd86-283f-4d45-a782-20b06fef6ab1)
 
 
 
