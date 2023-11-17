@@ -6,13 +6,19 @@
 <h3>Open source enthusiast and linux user</h3>
 
   <h3>Languages and Tools!</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="45" alt="haskell logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="45" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="45" alt="vim logo"  />
 </div>
+
 
 
 <h3>Connect with me!</h3>
