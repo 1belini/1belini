@@ -8,9 +8,13 @@
   <h3>Languages and Tools!</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+   <img src="https://skillicons.dev/icons?i=rust" height="45" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
@@ -25,6 +29,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <a href="https://mail.google.com/mail/u/?authuser=beliniemmanuel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
