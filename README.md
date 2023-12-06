@@ -8,8 +8,8 @@
   <h3>Languages and Tools!</h3>
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=rust" height="45" alt="rust logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
