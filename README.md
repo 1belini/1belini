@@ -14,8 +14,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="45" alt="vim logo"  />
