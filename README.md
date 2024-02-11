@@ -5,19 +5,6 @@
 <h1>Hello, welcome to my profile! ☕</h1>
 <h3>Open source enthusiast and linux user</h3>
 
-  <h3>Languages and Tools!</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="45" alt="vim logo"  />
-</div>
 
 
 
