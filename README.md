@@ -4,7 +4,7 @@
 
 <h1>Hello, welcome to my profile! ☕</h1>
 <h3>Open source enthusiast and linux user</h3>
-<small>i use arch btw</small>
+<small>linux > windows</small>
 
 
 <h3>Connect with me!</h3>
