@@ -1,4 +1,6 @@
-![mad-watch-this-swag-mad](https://user-images.githubusercontent.com/100674901/191280814-e90338c1-a691-4a9c-accc-b40f559b754a.gif)
+
+![jake-lofi](https://github.com/user-attachments/assets/922699e2-d63d-4bbf-96d9-95eec9f62f44)
+
 
 <h1>Hello, welcome to my profile! ☕</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=cccccc&style=flat-square" alt="1belini" /> </p>
