@@ -11,7 +11,7 @@
  <h2>Languages and Tools!</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="python logo"  />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
